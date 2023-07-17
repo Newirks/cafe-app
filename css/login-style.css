@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+body {background-color: #e8214b; }
+
+.login { background-color:#e8214b; height: %100; }
+
+.login-tas {  margin-top: 150px; }
+.login-baslik { color:white; text-align: center; font-size: 30px; padding: 10px; }
+.login-kadi {padding: 5px; text-align: center;}
+.login-ksifre {padding: 5px; text-align: center;}
+.login-kbuton {padding: 5px; text-align: center;}
+.login-link {padding: 5px; font-size: 12px; text-align: center; color:white; }
+.login-link a {text-decoration: none; color:white;}
+.login-link a:hover { color:#ccc; }
+.login-face {padding: 5px; text-align: center;}
+
+.login-kadi-ic {font-size:12px; padding-top: 5px; padding-bottom: 5px; padding-left: 15px; padding-right: 15px; border-radius: 5px; border:none; width: 200px;}
+.login-ksifre-ic {font-size:12px; padding-top: 5px; padding-bottom: 5px; padding-left: 15px; padding-right: 15px; border-radius: 5px; border:none; width: 200px;}
+.login-kbuton-ic {width: 200px; border-radius: 5px; border:none; padding-top: 2px; padding-bottom: 2px; padding-left: 10px; padding-right: 10px;
+	background-color: #1ba5b8; color:white; }
+.login-kbuton-ic:hover {background-color: #1c7f88;}
+
+.footer {background-color: #e8214b; border:none; }
+.footer-bilgi {text-align: center; padding-top: 17px; font-size: 12px; color:white;}
+.footer-bilgi a {text-decoration: none; color:white;}
+.footer-bilgi a:hover {color:#ccc;}
+
+.register-tas  {  margin-top: 100px; }

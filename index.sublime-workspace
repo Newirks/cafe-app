@@ -1,0 +1,471 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"top",
+				"topyaz1"
+			],
+			[
+				"btcm",
+				"btcmiktar1"
+			],
+			[
+				"dave",
+				"davetkodu"
+			],
+			[
+				"mysqli_fet",
+				"mysqli_fetch_array"
+			],
+			[
+				"dav_",
+				"dav_user"
+			],
+			[
+				"guncelle",
+				"guncelle2"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"btc",
+				"btcmiktar1"
+			],
+			[
+				"davet",
+				"davetkodu"
+			],
+			[
+				"da",
+				"davetedenkodu"
+			],
+			[
+				"dav",
+				"davetkodu"
+			],
+			[
+				"mysqli_fe",
+				"mysqli_fetch_array"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"toplam",
+				"toplam3"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"mi",
+				"miktar2"
+			],
+			[
+				"bt",
+				"btc_miktar"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"z_",
+				"z_email"
+			],
+			[
+				"z",
+				"z_email"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"du",
+				"du_mesaj"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"onay",
+				"onay"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"admi",
+				"adminpw"
+			],
+			[
+				"admin",
+				"adminname"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"col-md-",
+				"col-md-12"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"s",
+				"submit"
+			],
+			[
+				"deposit",
+				"deposit_yap"
+			],
+			[
+				"pane",
+				"panelmenu"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"fun_",
+				"func_get_args"
+			],
+			[
+				"user_",
+				"user_id"
+			],
+			[
+				"email",
+				"email"
+			],
+			[
+				"border-ra",
+				"border-radius"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"mysqli",
+				"mysqli_query"
+			],
+			[
+				"col-md",
+				"col-md-8"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"sessio",
+				"session_destroy"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"S",
+				"SELECT"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"strip",
+				"strip_tags"
+			],
+			[
+				"re",
+				"required\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp64/www/sitem2/exchange.php",
+		"/C/wamp64/www/sitem2/commission.php",
+		"/C/wamp64/www/sitem2/udep_git.php",
+		"/C/wamp64/www/sitem2/login.php",
+		"/C/wamp64/www/sitem2/header.php",
+		"/C/wamp64/www/sitem2/footer.php",
+		"/C/wamp64/www/sitem2/udep_list.php",
+		"/C/wamp64/www/sitem2/admin/komisyon.php",
+		"/C/wamp64/www/sitem2/dashboard.php",
+		"/C/wamp64/www/sitem2/panel_menu.php",
+		"/C/wamp64/www/sitem2/cron3.php",
+		"/C/wamp64/www/sitem2/cron4.php",
+		"/C/wamp64/www/sitem2/cron5.php",
+		"/C/wamp64/www/sitem2/cron6.php",
+		"/C/wamp64/www/sitem2/admin/checkbox3.php",
+		"/C/wamp64/www/sitem2/admin/withdraw.php",
+		"/C/wamp64/www/sitem2/uwit_list.php",
+		"/C/wamp64/www/sitem2/udeposit.php",
+		"/C/wamp64/www/sitem2/uwithdraw.php",
+		"/C/wamp64/www/sitem2/admin/checkbox2.php",
+		"/C/wamp64/www/sitem2/sayac.php",
+		"/C/wamp64/www/sitem2/baglan.php",
+		"/C/wamp64/www/sitem2/cron1.php",
+		"/C/wamp64/www/sitem2/index.php",
+		"/C/wamp64/www/sitem2/faq.php",
+		"/C/wamp64/www/sitem2/panel.html",
+		"/C/wamp64/www/sitem2/css/stil.css",
+		"/C/wamp64/www/sitem2/admin/left.php",
+		"/C/wamp64/www/sitem2/last.php",
+		"/C/wamp64/www/sitem2/contact.php",
+		"/C/wamp64/www/sitem2/deneme1.php",
+		"/C/wamp64/www/sitem2/udep_form.php",
+		"/C/wamp64/www/sitem2/test2.php",
+		"/C/wamp64/www/sitem2/register.php",
+		"/C/wamp64/www/sitem2/admin/checkbox.php",
+		"/C/wamp64/www/sitem2/admin/index.php",
+		"/C/wamp64/www/sitem2/admin/deposit.php",
+		"/C/wamp64/www/sitem2/admin/mesaj_duzen.php",
+		"/C/wamp64/www/sitem2/uwit_git.php",
+		"/C/wamp64/www/sitem2/admin/sayac_list.php",
+		"/C/wamp64/www/sitem2/admin/z_mesaj.php",
+		"/C/wamp64/www/sitem2/admin/duzenle.php",
+		"/C/wamp64/www/sitem2/admin/z_mesaj_oku.php",
+		"/C/wamp64/www/sitem2/admin/css/stil.css",
+		"/C/wamp64/www/sitem2/ticket.php",
+		"/C/wamp64/www/sitem2/uwit_form.php",
+		"/C/wamp64/www/sitem2/admin/sayac.php",
+		"/C/wamp64/www/sitem2/admin/pm.php",
+		"/C/wamp64/www/sitem2/test.php",
+		"/C/wamp64/www/sitem2/register.html",
+		"/C/wamp64/www/sitem2/news.php",
+		"/C/wamp64/www/sitem2/faq.html",
+		"/C/wamp64/www/sitem2/admin/duyuru.php",
+		"/C/wamp64/www/sitem2/admin/duyuru_ekle.php",
+		"/C/wamp64/www/sitem2/admin/duyuru_duzenle.php",
+		"/C/wamp64/www/sitem2/admin/adminfooter.php",
+		"/C/wamp64/www/sitem2/admin/adminhead.php",
+		"/C/wamp64/www/sitem2/admin/cik.php",
+		"/C/wamp64/www/sitem2/admin/members.php",
+		"/C/wamp64/www/sitem2/admin/sil.php",
+		"/C/wamp64/www/sitem2/deneme2.html",
+		"/C/wamp64/www/sitem2/admin.php",
+		"/C/wamp64/www/sitem2/giris_yap.php",
+		"/C/wamp64/www/sitem2/update.php",
+		"/C/wamp64/www/sitem2/panel.php",
+		"/C/wamp64/www/sitem2/bilgicek.php",
+		"/C/wamp64/www/sitem2/dashboardname.php",
+		"/C/wamp64/www/sitem2/admin.html",
+		"/C/wamp64/www/sitem2/registerok.php",
+		"/C/wamp64/www/sitem2/logout.php",
+		"/C/wamp64/www/sitem2/fonksiyon.php",
+		"/C/wamp64/www/uyelik/ukas.php",
+		"/C/wamp64/www/uyelik/ayar.php",
+		"/C/wamp64/www/uyelik/test.php",
+		"/C/wamp64/www/sitem2/giris.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

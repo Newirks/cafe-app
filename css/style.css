@@ -1,0 +1,127 @@
+@charset "utf-8";
+/* CSS Document */
+body {background-color: #f7f7f7; }
+.head { background-color:#e8214b; padding: 20px; 
+
+ color:white;
+ 
+ }
+ .logo {size: 100px; }
+.mesaj a {color:white;}
+.mesaj a:hover {color: #cfcfcf;}
+.mesaj a:active {color:#a7a7a7;}
+
+.icon-s { border-radius: 0px; border:0px; color:#bebebe; background-color: white; }
+.icon {font-size: 25px; margin-right: 20px;   }
+
+
+.icerik {  margin-top: 10px; margin-bottom: 50px;  }
+.icerik-ust { background-color: #fff; padding:10px; 
+ border-top: solid 1px #ccc;
+ border-left:  solid 1px #ccc;
+ border-right: solid 1px #ccc;
+  }
+ .icerik-ust-isim {padding-left: 25px;}
+.icerik-ust-ust {margin: 0px; font-weight: bold; }
+.icerik-ust-alt {margin: 0px; font-size:12px; }
+
+.icerik-profil {margin-right: 5px; border: solid 1px #ccc;}
+.icerik-img {  border-right: solid 1px #ccc;  border-left:  solid 1px #ccc; }
+.icerik-alt {background-color: #fff; padding: 10px; 
+ padding-top: 15px;
+ border-bottom: solid 1px #ccc;
+ border-left:  solid 1px #ccc;
+  border-right:  solid 1px #ccc;
+margin-bottom: 10px;
+ font-weight: bold; font-size: 14px;
+}
+.icerik-alt a {color:#e8214b;}
+.icerik-alt a:hover { glyphicon glyphicon-heart }
+
+.icerik-alt-img {padding-bottom: 5px;}
+
+.profil {  border-top: solid 1px #ccc;
+ border-left:  solid 1px #ccc;
+ border-right: solid 1px #ccc;  background-color: #fff; }
+.profil2 {background-color: #fff; padding-top: 10px; padding-bottom: 10px; border-bottom: solid 1px #ccc;
+ border-left:  solid 1px #ccc;
+ border-right: solid 1px #ccc; font-size:11px; text-align: center; }
+ .profil3 {  border: solid 1px #ccc;
+  background-color: #fff; margin-top: 10px; padding-top: 10px; padding-bottom: 10px;}
+.profil3 p {border-bottom: 1px solid #ccc; padding-bottom: 5px;}  
+.pro3-icon { margin-right: 2px; }
+.pro3-coin {margin-left: 4px; margin-right: 4px; margin-bottom: 2px;}
+
+
+.profil-img {text-align: center; margin-top:20px;}
+.profil-img-duz {text-align: center; font-size: 14px;}
+.profil-img-duz a {text-decoration: none;}
+.profil-isim { padding-bottom: 10px; padding-top: 20px; padding-left: 10px; border-bottom: solid 1px #ccc;}
+.profil-isim a {text-decoration: none; font-size: 15px;}
+.profil-mail { padding-bottom: 10px; padding-left: 10px; border-bottom: solid 1px #ccc; }
+.profil-mail a {text-decoration: none; font-size: 15px;}
+.profil-sifre { padding-left: 10px; }
+.profil-sifre a {text-decoration: none; font-size: 15px;}
+.profil-cik a {padding-left: 10px; text-decoration: none; font-size: 14px;}
+.profil-sil a {padding-left: 10px; text-decoration: none; font-size: 14px;}
+.profil-is a {padding-left: 10px; text-decoration: none; font-size: 14px;}
+
+.pro-img { margin-top:10px; margin-bottom: 10px; border:1px solid #ccc; }
+.pro-isim {margin-left:5px; margin-top: 20px; }
+.pro-mail {margin-left: 7px; margin-top: -10px;}
+
+.pro-link a {margin-left:5px; margin-bottom:10px; text-decoration: none; font-size:15px; border:1px solid #ccc; padding-top: 3px; padding-bottom: 2px; 
+	padding-left: 10px;
+padding-right: 10px; border-radius: 3px; background-color: #f7f7f7; color:#313131;}
+.pro-link a:hover {background-color: #ededed;}
+
+.pro-coin {margin-top: 10px;}
+.pro-coin-puan {padding-left: 30px; font-size: 20px;  padding-top: 4px;}
+.pro-konum {margin-bottom: 10px; margin-top: 6px;}
+.pro-konum-yer {font-size: 30px;  padding-top: 3px;}
+
+.footer {text-align: center;  font-size: 12px; background-color:#e8214b;
+}
+.footer a {color:white;}
+.footer a:hover {color: #cfcfcf;}
+.footer a:active {color:#a7a7a7;}
+
+.alt-icon { margin-top:15px;  font-size:20px; }
+.alt-profil { margin-top: 7px; }
+
+.arama {padding: 5px; width: 350px; border-radius: 3px; border:1px solid #ccc;}
+.arama-baslik {margin-top: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px; font-weight: bold;}
+.arama-img { margin-right: 5px; border:1px solid #ccc;  }
+.arama-konum {margin-right: 5px;}
+.arama-kisi {font-size: 12px; font-weight: bold;}
+.arama-icon {margin-right: 3px;}
+
+.ust-bilgi {font-size: 20px; font-weight: bold; margin-top:5px; }
+.ust-bilgi-img {margin-right: 4px; margin-bottom: 5px;}
+
+.begen {font-size:20px; margin-left: 25px;}
+
+.login { background-color:#e8214b; height: %100; }
+
+.profil-isim-up {}
+.profil-isim-up-ic {margin-right: 5px; padding-left: 10px; padding-right: 10px; padding-top: 3px; padding-bottom: 3px; border-radius: 3px; 
+	border:none; border:1px solid #ccc;}
+.profil-isim-up-ic2 {margin-right: 5px; padding-left: 10px; padding-right: 10px; padding-top: 3px; padding-bottom: 3px; border-radius: 3px; 
+	border:none; border:1px solid #ccc; width: 325px;}
+
+.profil-isim-up-ic3 {margin-right: 5px; padding-left: 10px; padding-right: 10px; padding-top: 3px; padding-bottom: 3px; border-radius: 3px; 
+	border:none; border:1px solid #ccc; width: 325px; background-color: #1ba5b8; color:white;}	
+.profil-isim-up-ic3:hover {background-color: #1c7f88;}
+
+.fri-buton-ic {width: 100px; border-radius: 5px; border:none; padding-top: 3px; padding-bottom: 2px; padding-left: 10px; padding-right: 10px;
+	background-color: #1ba5b8; color:white; margin-left: 5px; }
+.fri-buton-ic:hover {background-color: #1c7f88;}
+
+.cafe_baslik {font-size: 35px; font-weight: bold; margin-bottom: 0px;}
+.cafe_adres {font-size: 13px; margin-bottom: 0px;}
+.cafe_adres2 {font-size: 12px; margin-bottom: 0px;}
+
+
+.puan { background-color: green; text-align: center; width: 200px; margin-left: auto; margin-right: auto; }
+.puanic { margin: 0px; font-size: 18px; font-weight: bold; color:white; }
+.puanic2 { margin: 0px; font-size:18px; font-weight: bold; color:white;}
